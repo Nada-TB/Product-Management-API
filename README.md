@@ -26,10 +26,6 @@ The main components of the application are:
 - **Product Routes**: Manages various API endpoints related to products.
 
 ## Demo
-
-Provide a link to a live demo or include screenshots/gifs of the project in action.
-
-### Live Demo
 no live demo
 
 ## Installation
@@ -42,6 +38,7 @@ You need a MongoDB instance to store and manage your data. You can choose betwee
 - Once your cluster is created, go to the "Database Access" tab and create a new user with appropriate permissions.
 - Navigate to the "Network Access" tab and add your IP address to the IP whitelist.
 - Obtain the connection string from the "Connect" button, which you'll use in your .env file.
+  
 **Option 2:** Installing MongoDB Locally
 - Follow the installation instructions for your operating system.
 - Start the MongoDB server using the mongod command in your terminal.
@@ -177,6 +174,7 @@ your-repo-name/
 ## Challenges and Learnings
 
 **Challenge:** Handling asynchronous database operations and ensuring proper error handling.
+
 **Learning:** Gained experience in integrating MongoDB with Express.js and structuring a Node.js application for scalability.
 
 ## Future Improvements
