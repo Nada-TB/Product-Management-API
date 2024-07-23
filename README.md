@@ -1,6 +1,6 @@
 # Product Management API
 
-A robust backend service for managing products, built with Node.js and Express.js. This project showcases a basic CRUD (Create, Read, Update, Delete) API for handling product data with MongoDB integration.
+A backend service for managing products, built with Node.js and Express.js. This project showcases a basic CRUD (Create, Read, Update, Delete) API for handling product data with MongoDB integration.
 
 ## Table of Contents
 
